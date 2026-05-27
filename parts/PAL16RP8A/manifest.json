@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PAL16RP8A:PAL16RP8A",
+  "name": "PAL16RP8A",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PAL16RP8A.kicad_sym",
+  "description": "Programmable Array Logic (PAL), 16 array inputs (8 dedicated inputs), 8 registered outputs, programmable output polarity, DIP-20 / PLCC-20",
+  "datasheet": "https://bitsavers.org/components/amd/_dataBooks/1988_AMD_PAL_Device_Data_Book.pdf#page=487",
+  "keywords": "Obsolete Monolithic-Memories AMD PLD PAL-Series-20AP Medium-20PA-Series",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PAL16RP8A/",
+  "part_path": "parts/PAL16RP8A",
+  "symbol_file": "parts/PAL16RP8A/PAL16RP8A.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.358Z"
+}

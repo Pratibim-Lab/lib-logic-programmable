@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PEEL22CV10AS:PEEL22CV10AS",
+  "name": "PEEL22CV10AS",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PEEL22CV10AS.kicad_sym",
+  "description": "Not in Production, CMOS Programmable Electrically Erasable Logic Device, SOIC-24W",
+  "datasheet": "https://www.alldatasheet.com/datasheet-pdf/download/149182/ANACHIP/PEEL22CV10AP-15L.html",
+  "keywords": "PLD",
+  "footprint": "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm",
+  "extends": "PEEL22CV10AP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PEEL22CV10AS/",
+  "part_path": "parts/PEEL22CV10AS",
+  "symbol_file": "parts/PEEL22CV10AS/PEEL22CV10AS.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.387Z"
+}

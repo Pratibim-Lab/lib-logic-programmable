@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PAL20R8xx-P:PAL20R8xx-P",
+  "name": "PAL20R8xx-P",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PAL20R8xx-P.kicad_sym",
+  "description": "Programmable Array Logic (PAL), 20 array inputs (12 dedicated inputs), 8 registered outputs (active-low), DIP-24",
+  "datasheet": "https://rocelec.widen.net/view/pdf/pn0qtf2whd/VANTS00076-1.pdf",
+  "keywords": "Obsolete Monolithic-Memories AMD PLD 20R8 PAL20R8-5PC PAL20R8-7PC PAL20R8-10PC PAL20R8-10/2PC PAL20R8ACNS",
+  "footprint": "Package_DIP:DIP-24_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PAL20R8xx-P/",
+  "part_path": "parts/PAL20R8xx-P",
+  "symbol_file": "parts/PAL20R8xx-P/PAL20R8xx-P.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.369Z"
+}

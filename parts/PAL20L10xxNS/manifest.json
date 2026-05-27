@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PAL20L10xxNS:PAL20L10xxNS",
+  "name": "PAL20L10xxNS",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PAL20L10xxNS.kicad_sym",
+  "description": "Programmable Array Logic (PAL), 20 array inputs (12 dedicated inputs), 10 active-low combinatorial outputs, DIP-24",
+  "datasheet": "https://www.datasheet.directory/pdfviewer?url=https%3A%2F%2Fdatasheet.iiic.cc%2Fdatasheets-0%2Fadvanced_micro_devices%2FPAL20L10ACNS.pdf",
+  "keywords": "Obsolete Monolithic-Memories AMD PLD 20L10 PAL20L10ACNS AmPAL20L10BPC",
+  "footprint": "Package_DIP:DIP-24_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PAL20L10xxNS/",
+  "part_path": "parts/PAL20L10xxNS",
+  "symbol_file": "parts/PAL20L10xxNS/PAL20L10xxNS.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.363Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PALCE16V8:PALCE16V8",
+  "name": "PALCE16V8",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PALCE16V8.kicad_sym",
+  "description": "EE CMOS Universal Programmable Array Logic (PAL), 8 / 10 dedicated inputs, 8 I/O, DIP-20 / PLCC-20 / SOIC-20",
+  "datasheet": "https://www.alldatasheet.com/datasheet-pdf/view/55541/AMD/PALCE16V8.html",
+  "keywords": "Obsolete Monolithic-Memories AMD macrocell Electrically-Erasable PLD 16V8  PALCE16V8H-7PC/5 PALCE16V8H-10PC/4 PALCE16V8H-25PC/4 PALCE16V8H-15JC/4",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PALCE16V8/",
+  "part_path": "parts/PALCE16V8",
+  "symbol_file": "parts/PALCE16V8/PALCE16V8.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.379Z"
+}

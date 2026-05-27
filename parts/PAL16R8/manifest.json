@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PAL16R8:PAL16R8",
+  "name": "PAL16R8",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PAL16R8.kicad_sym",
+  "description": "Programmable Array Logic (PAL), 8 Registered Outputs, DIP-20 / PLCC-20",
+  "datasheet": "https://docs.rs-online.com/53eb/0900766b8002a354.pdf",
+  "keywords": "Obsolete Monolithic-Memories AMD PLD 16R8 PAL16R8-7PC PAL16R8-7JC PAL16R8D/2PC PAL16R8B-2CN PAL16R8ACN",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PAL16R8/",
+  "part_path": "parts/PAL16R8",
+  "symbol_file": "parts/PAL16R8/PAL16R8.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.351Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PAL20L8:PAL20L8",
+  "name": "PAL20L8",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PAL20L8.kicad_sym",
+  "description": "Programmable Array Logic (PAL), Active-Low Combinatorial, DIP-24",
+  "datasheet": "https://rocelec.widen.net/view/pdf/pn0qtf2whd/VANTS00076-1.pdf",
+  "keywords": "Obsolete Monolithic-Memories AMD PLD 20L8 PAL20L8-5PC PAL20L8-7PC PAL20L8-10PC PAL20L8-10/2PC PAL20L8B-2CNS",
+  "footprint": "Package_DIP:DIP-24_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PAL20L8/",
+  "part_path": "parts/PAL20L8",
+  "symbol_file": "parts/PAL20L8/PAL20L8.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.365Z"
+}

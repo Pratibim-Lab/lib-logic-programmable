@@ -1,0 +1,17 @@
+{
+  "id": "Logic_Programmable/PAL24:PAL24",
+  "name": "PAL24",
+  "library": "Logic_Programmable",
+  "file": "Logic_Programmable.kicad_symdir/PAL24.kicad_sym",
+  "description": "generic 24-pin Programmable Array Logic (PAL) device",
+  "datasheet": "",
+  "keywords": "logic programmable PAL",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-logic-programmable@master/parts/PAL24/",
+  "part_path": "parts/PAL24",
+  "symbol_file": "parts/PAL24/PAL24.kicad_sym",
+  "source_library": "Logic_Programmable.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:49.375Z"
+}
